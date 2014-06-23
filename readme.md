@@ -1,6 +1,6 @@
 MercadoLibre's API
 
-#Site documentation
+# Site documentation
 developers.mercadolibre.com
 
 # Forum
