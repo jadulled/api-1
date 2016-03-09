@@ -1,7 +1,4 @@
-MercadoLibre's API
-
-## Site documentation
-[developers.mercadolibre.com](http://developers.mercadolibre.com/)
-
+-- Deprecated --
+To report an issue please register on:
 ## Forum
 [developers-forum.mercadolibre.com](http://developers-forum.mercadolibre.com/)
